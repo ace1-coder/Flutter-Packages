@@ -11,3 +11,8 @@ Today's Flutter package of the day is cached_network_image. cached_network_image
 If your app needs to open URLs in the device's browser or launch other apps, url_launcher provides a simple way to do so. It supports opening web pages, sending emails, making phone calls, and more.
 
 
+# EasyNotify
+
+EasyNotify is a Flutter package designed to streamline and simplify the process of handling push notifications across both Android and iOS. It abstracts the complexities of integrating Firebase Cloud Messaging (FCM) and provides a developer-friendly API for sending, receiving, and managing notifications in Flutter apps.
+
+
